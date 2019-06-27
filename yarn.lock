@@ -1119,10 +1119,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@react-pakistan/react-ui-collection@^1.0.24":
-  version "1.0.24"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-ui-collection/-/react-ui-collection-1.0.24.tgz#cad3b45de221c11b939e4b1abf4fba258e9b7da9"
-  integrity sha512-oKV7RwCcivWIRsTtzuxa0s00lNjPFRoCrHagoOKc1DRJvNdKBwipUe466yZzo4YK55tL5mhGEXjNiAaudQG3FQ==
+"@react-pakistan/react-ui-collection@^1.0.32":
+  version "1.0.32"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-ui-collection/-/react-ui-collection-1.0.32.tgz#86ec90c8fb3907d82545c171f86066568c8f63f7"
+  integrity sha512-+Tja4MTNqe4Fyn327qr2pbTVD7h6uj8T1wDi3OZUnb5yddGm+VMPJAglHPO7/UKpcHtdLAEw8tBDoXh6bJP4/Q==
   dependencies:
     react-toastify "^5.3.1"
     styled-flex-component "^3.0.0"
