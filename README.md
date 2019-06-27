@@ -34,4 +34,4 @@ Run following set of commands after cloning this repo off the GitHub link
 
 ### Final Design
 
-<img src="https://cdn1.imggmi.com/uploads/2019/6/27/7b4213432ab630c61d228ca9a18aaefa-full.png" width="100%/>
+<img src="https://cdn1.imggmi.com/uploads/2019/6/27/7b4213432ab630c61d228ca9a18aaefa-full.png" width="100%" />
