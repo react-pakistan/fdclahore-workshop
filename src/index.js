@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
+import { ThemeProvider } from 'styled-components';
+import { theme } from '@react-pakistan/react-ui-collection/themes';
 
 import './index.css';
 import App from './containers/app';
@@ -14,7 +16,9 @@ const store = createStore(
 
 ReactDOM.render(
   <Provider store={store}>
-    <App />
+    <ThemeProvider theme={theme}>
+      <App />
+    </ThemeProvider>
   </Provider>
 , document.getElementById('root'));
 
