@@ -1,4 +1,4 @@
-# Facebook Dec Circles Lahore Workshop
+# Facebook Dev Circles Lahore Workshop
 
 Welcome everyone for attending Facebook Dev Circles Lahore workshop. This workshop is majorly focused on React library.
 
@@ -32,6 +32,6 @@ Run following set of commands after cloning this repo off the GitHub link
 
 > Although you could use NPM, but it is recommended to use yarn instead for this repo.
 
-### Final Design
-
-<img src="https://cdn1.imggmi.com/uploads/2019/6/27/7b4213432ab630c61d228ca9a18aaefa-full.png" width="100%" />
+### Instructor Profile
+Taimoor Khan does lots of open source work and projects, checkout his GitHub profile https://github.com/Taimoormk, fork, follow, and star if you find any of his projects interesting.
+Should you wish, Taimoor Khan to improve in any way, consider leaving your comments on his GuestBook at https://taimoor-khan.herokuapp.com/guest-book
