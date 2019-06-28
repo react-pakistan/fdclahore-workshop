@@ -1,1 +1,1 @@
-export const TEST = 'TEST';
+export const LOAD_HOME_DATA = 'LOAD_HOME_DATA';

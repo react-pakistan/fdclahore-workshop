@@ -1,6 +1,6 @@
 const imageBlock = {
   type: 'photo',
-  imageUrl: 'https://cdn.wallpapersafari.com/80/57/pXlSF4.jpg'
+  imageUrl: 'https://avatarfiles.alphacoders.com/164/164590.jpg'
 }
 
 const contactDetails = [

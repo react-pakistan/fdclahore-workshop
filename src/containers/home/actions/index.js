@@ -1,8 +1,6 @@
 import * as types from '../constants';
 
-export function testAction (data) {
-  return {
-    type: types.TEST,
-    payload: data
-  };
-};
+export const loadHomeDataAction = data => ({
+  type: types.LOAD_HOME_DATA,
+  payload: data
+});
