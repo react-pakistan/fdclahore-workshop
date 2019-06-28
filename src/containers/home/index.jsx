@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { ResumeBlock } from '@react-pakistan/react-ui-collection/eCommerceV1UI/resume-block';
+import { ResumeBlock } from '@react-pakistan/react-ui-collection/resume/resume-block';
 
 import { Grid } from './styles';
 import * as actions from './actions';
