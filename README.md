@@ -35,3 +35,7 @@ Run following set of commands after cloning this repo off the GitHub link
 ### Instructor Profile
 Taimoor Khan does lots of open source work and projects, checkout his GitHub profile https://github.com/Taimoormk, fork, follow, and star if you find any of his projects interesting.
 Should you wish, Taimoor Khan to improve in any way, consider leaving your comments on his GuestBook at https://taimoor-khan.herokuapp.com/guest-book
+
+### Output
+
+<img src="./src/assets/resume.png" width="100%" />
