@@ -2,7 +2,7 @@
 
 Welcome everyone for attending Facebook Dev Circles Lahore workshop. This workshop is majorly focused on React library.
 
-Workshop SlidDeck: https://docs.google.com/presentation/d/1U8-kTyUU0A4uCCw_aOqkqkU_BH5H0OTmzNgVsvUt7w8/edit?usp=sharing
+Workshop SlidDeck: https://docs.google.com/presentation/d/1Bhafr7cBjA8-Yuohj81ReGpcN-8p-jp47itiUO7sSN0/edit?usp=sharing
 
 Following technoglogies are used along with React to support this project;
 
