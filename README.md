@@ -21,8 +21,6 @@ Following technoglogies are used along with React to support this project;
 * Install Chocolatey `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
 * Install Node `choco install -y nodejs.install`
 
-> For any questions or comments, please create thread at Rocket Chat #arbisoft-ui-repo channel
-
 ### Run This Project
 Run following set of commands after cloning this repo off the GitHub link
 * `cd react-ui`
